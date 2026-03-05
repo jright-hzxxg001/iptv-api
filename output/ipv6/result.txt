@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2026-03-03 19:01:24,https://www.freetv.top/migu/631780532.m3u8?migutoken=bc1f11ad864868ebb56019151a09f0ade9d629390f012e89ad2c31cb551231423b6a35211bf66f1795cc6720a373c8637c1f0f6cff1e4f7cd112708179659abf6a2f71d1d9a8acc83d311b83ff$订阅源
+2026-03-05 19:01:20,https://www.freetv.top/migu/631780532.m3u8?migutoken=bc1f11ad864868ebb56019151a09f0ade9d629390f012e89ad2c31cb551231423b6a35211bf66f1795cc6720a373c8637c1f0f6cff1e4f7cd112708179659abf6a2f71d1d9a8acc83d311b83ff$订阅源
 
 📺央视频道,#genre#
 CCTV-2,https://www.freetv.top/migu/631780532.m3u8?migutoken=bc1f11ad864868ebb56019151a09f0ade9d629390f012e89ad2c31cb551231423b6a35211bf66f1795cc6720a373c8637c1f0f6cff1e4f7cd112708179659abf6a2f71d1d9a8acc83d311b83ff$订阅源
+CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773218365&major_anchor_level=common&sign=821612d0a7b01fb226f8f39d97d19fc2&t_id=037-20260304163924497A73460AD8D5D628AF-n87Lsu$订阅源
 CCTV-2,http://pull-hls-f26.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69ab5953&major_anchor_level=common&sign=57d8e1e83d33ba9634ae5c7a9459724f&t_id=037-20260228064643535DD8CD314AB1F748BD-Pqf7Y6$订阅源
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=35ee1318e92e1d47aa4e9ad2f98c1ca771a9ca57db36d1e18c3a4fabedd68b40ee0c4c4724347e54708380241e58d714dde21dcbd0f2eff4373c9d9f7f1508646f22febd08f5c3a8c755f6ef1e$订阅源
 CCTV-4,https://www.freetv.top/migu/631780421.m3u8?migutoken=fefc6a44400a0dd448699ae0ce3d6e2c5a0f49b8d48adb36e747c4fbab039337eb3244f9951acbddaf26b7bf51597a7d1b43c8845e67fd5914ece875dcad325bb388200bc0f12fdff727d03e2d$订阅源
@@ -24,8 +25,8 @@ CCTV-12,https://www.freetv.top/migu/673168185.m3u8?migutoken=37acadb43b1d7932b0a
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13%E6%96%B0%E9%97%BB$订阅源
 CCTV-13,http://www.freetv.top/migu/608807423.m3u8?migutoken=d8e7d5104925c13570533f5db2f808b4613be4d2901d3d406a67fca92ee219bc3692dff97d63d38123fde519465b77404b0a2c0c59bec5e83ad2be42019845acc7e59290159021d585352689cc$订阅源
 CCTV-13,https://www.freetv.top/migu/608807423.m3u8?migutoken=ac19a58805588401a8e818b6dd00df9b327912af3611ba95f89235e7020821668a2b6dc65ccc3904967da59d0a9742565c56ea582baf8915d068035054818ef0f369dab64705a6a7f7120529ec$订阅源
-CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-407136188858892972.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773018913&major_anchor_level=common&sign=49b2a5b43da143cffc0b61fb762bc89c&t_id=037-2026030209151226A5C2CF88804701E66B-LfLeur$订阅源
+CCTV-13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8$订阅源
 CCTV-13,http://pull-hls-f26.douyincdn.com/media/stream-695365272562303660.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=69ab7b70&major_anchor_level=common&sign=542803b7c3f5a51fcdb0d7da26b8edaf&t_id=037-202602280912163E3044C1B70B084BC18C-M0fuoH$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14%E5%B0%91%E5%84%BF$订阅源
 CCTV-14,http://www.freetv.top/migu/624878440.m3u8?migutoken=303d044cf07163e1e2e8e4ecc8b6696ed836301cf573b626d3c00ec50cd362cc5e6a93afc2fd102cb883155554597d14eaa697edc9b0a30e56fc0115f81d8fbb8b87129e5bedad7d2173178f03$订阅源
@@ -90,32 +91,22 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-118948282823344812.m3u8?a
 云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 
 ☘️浙江频道,#genre#
-浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
-浙江钱江台,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$订阅源
 浙江生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$订阅源
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
 浙江经济生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$订阅源
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8$订阅源
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/720p.m3u8$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
 浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8$订阅源
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed$订阅源
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$订阅源
 浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8$订阅源
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed$订阅源
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8$订阅源
 浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8$订阅源
-浙江留学,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
 浙江留学,http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8$订阅源
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
 浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8$订阅源
 浙江数码时代,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$订阅源
-浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n$订阅源
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
 浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8$订阅源
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8$订阅源
@@ -147,7 +138,6 @@ CCTV-17,http://pull-hls-f11.douyincdn.com/media/stream-118948282823344812.m3u8?a
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl$订阅源
 余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
 中国蓝新闻,http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
-中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8$订阅源
 东阳影视生活,http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8$订阅源
 上虞文化影视,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8$订阅源
 
@@ -190,7 +180,6 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a9
 🪁动画频道,#genre#
 优漫卡通,https://www.freetv.top/migu/626064703.m3u8?migutoken=deac6c5275081b54ad412a195e499b7c0cb8f04446b6c80aaa9d3eb1063d620261c68202d59aea05060007b58a62d5d208f16379d861d6f1627c10c9dd894f0bf7e3ca97b04696255e193e871c$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
 经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
